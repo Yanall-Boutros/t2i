@@ -41,6 +41,11 @@
             python311Packages.matplotlib
             python311Packages.torch-bin
             python311Packages.opencv4
+            python311Packages.diffusers
+            python311Packages.transformers
+            python311Packages.safetensors
+            python311Packages.accelerate
+            python311Packages.invisible-watermark
             libtorch-bin
             cudaPackages.cudnn
             cudaPackages.cudatoolkit
