@@ -46,6 +46,8 @@
             python311Packages.safetensors
             python311Packages.accelerate
             python311Packages.invisible-watermark
+            python311Packages.torchvision-bin
+            python311Packages.numpy
             libtorch-bin
             cudaPackages.cudnn
             cudaPackages.cudatoolkit
